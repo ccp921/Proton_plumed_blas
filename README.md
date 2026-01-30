@@ -1,0 +1,1 @@
+To accelerate the calculation of molecular dynamics with plumed2 for proton position tracking, the loop operations are modified into BLAS degmm operations. The original code is from Computational Chemistry Group, Van't Hoff Institute for Molecular Science, Universiteit van Amsterdam (https://www.acmm.nl/molsim/users/ensing/software/index.html#ptcv).
